@@ -16,4 +16,4 @@
   
  1. https://ryugaram.tistory.com/71      버블정렬
  2. https://ryugaram.tistory.com/72      선택정렬
- 3. https://ryugaram.tistory.com/73      
+ 3. https://ryugaram.tistory.com/73      삽입정렬
