@@ -14,6 +14,6 @@
   
   오늘은 면접 대비 기초 알고리즘
   
-  https://ryugaram.tistory.com/71      버블정렬
-  https://ryugaram.tistory.com/72      선택정렬
-  https://ryugaram.tistory.com/73      
+ 1. https://ryugaram.tistory.com/71      버블정렬
+ 2. https://ryugaram.tistory.com/72      선택정렬
+ 3. https://ryugaram.tistory.com/73      
